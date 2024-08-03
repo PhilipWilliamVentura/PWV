@@ -1,5 +1,4 @@
-# PWV
-Hello world! This is my profile!
+#PWV
 <h1 align="center">Hi 👋, I'm Philip William Ventura</h1>
 <h3 align="center">A passionate future coder from Canada</h3>
 
