@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Philip William Ventura</h1>
 <h3 align="center">A passionate future coder from Canada</h3>
 
-- 🌱 I’m currently learning **Jupyter**
+- 🌱 I’m currently learning **Arduino IDE**
 
-- 👯 I’m looking to collaborate on **Quantitative trading projects**
+- 👯 I’m looking to collaborate on **Python projects**
 
-- 🤝 I’m looking for help with **building a future career in finance/computer science**
+- 🤝 I’m looking for help with **building a future career in computer science**
 
 - 📫 How to reach me **philipwilliamventura@gmail.com**
 
