@@ -1,20 +1,65 @@
-<h1 align="center">Hi 👋, I'm Philip William Ventura</h1>
-<h3 align="center">A passionate future coder from Canada</h3>
+# 👋 Hi, I'm Philip William Ventura
 
-- 🌱 I’m currently learning **Arduino IDE**
+🚀 **Aspiring Software Engineer & Machine Learning Enthusiast** from Canada
 
-- 👯 I’m looking to collaborate on **Python projects**
+🎓 **Currently enrolled at the University of Waterloo**
 
-- 🤝 I’m looking for help with **building a future career in computer science**
+🌱 **Currently learning:** Expo & React Native
 
-- 📫 How to reach me **philipwilliamventura@gmail.com**
+👯 **Looking to collaborate on:** Python, Machine Learning, and Full-Stack Web/App Development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/philipwilliamventura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philipwilliamventura" height="30" width="40" /></a>
-</p>
+🤝 **Seeking mentorship in:** Building a successful career in Computer Science & AI
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+📫 **How to reach me:** philipwilliamventura@gmail.com
 
+---
+
+## 🔗 Connect with Me
+[GitHub](https://github.com/philipwilliamventura) • [LinkedIn](https://linkedin.com/in/philipwilliamventura) • [Email](mailto:philipwilliamventura@gmail.com)
+
+---
+
+## 🛠️ Languages & Tools
+
+### 🔥 **Programming & Scripting**
+- Python 🐍
+- JavaScript 🌐
+- C++ 💻
+
+### 🎨 **Front-End Development**
+- React ⚛️
+- React Native 📱
+- Expo 🏗️
+- Next.js 🚀
+- HTML5 & CSS3 🎨
+
+### 🛠️ **Back-End & Databases**
+- Appwrite ⚡
+- Firebase 🔥
+- Node.js 🛠️
+
+### 🤖 **Machine Learning & Data Science**
+- PyTorch 🔥
+- scikit-learn 📊
+- TensorFlow 🧠
+- NumPy 🔢
+- Pandas 🐼
+- Jupyter Notebook 📓
+- Streamlit 🌐
+
+### 🛠️ **Other Tools & Frameworks**
+- Arduino IDE 🤖
+- Git & GitHub 🛠️
+- Blender 🎨
+- Unity 🎮
+
+---
+
+### 🌟 **Why Work With Me?**
+✅ Passionate about solving complex problems with technology
+✅ Skilled in both **front-end & back-end** development
+✅ Strong foundation in **machine learning & data science**
+✅ Always eager to learn and **collaborate on exciting projects**
+
+💡 **Let's build something great together!**
 
