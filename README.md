@@ -31,7 +31,7 @@
 - React Native 📱
 - Expo 🏗️
 - Next.js 🚀
-- HTML5 & CSS3 🎨
+- HTML5 & CSS3 (Tailwind) 🎨
 
 ### 🛠️ **Back-End & Databases**
 - Appwrite ⚡
