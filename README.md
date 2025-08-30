@@ -4,7 +4,7 @@
 
 🎓 **Currently enrolled at the University of Waterloo**
 
-🌱 **Currently learning:** Expo & React Native
+🌱 **Currently learning:** Transformer Architecture and C++
 
 👯 **Looking to collaborate on:** Python, Machine Learning, and Full-Stack Web/App Development
 
@@ -23,8 +23,9 @@
 
 ### 🔥 **Programming & Scripting**
 - Python 🐍
+- - C++ 💻
 - JavaScript 🌐
-- C++ 💻
+- C 🛠️
 
 ### 🎨 **Front-End Development**
 - React ⚛️
@@ -34,7 +35,8 @@
 - HTML5 & CSS3 (Tailwind) 🎨
 
 ### 🛠️ **Back-End & Databases**
-- Appwrite ⚡
+- SQL 📊
+- Supabase ⚡
 - Firebase 🔥
 - Node.js 🛠️
 
@@ -48,10 +50,10 @@
 - Streamlit 🌐
 
 ### 🛠️ **Other Tools & Frameworks**
-- Arduino IDE 🤖
+- Docker 🤖
 - Git & GitHub 🛠️
-- Blender 🎨
-- Unity 🎮
+- AWS 🎨
+- Azure 🎮
 
 ---
 
