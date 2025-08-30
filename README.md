@@ -23,7 +23,7 @@
 
 ### 🔥 **Programming & Scripting**
 - Python 🐍
-- - C++ 💻
+- C++ 💻
 - JavaScript 🌐
 - C 🛠️
 
